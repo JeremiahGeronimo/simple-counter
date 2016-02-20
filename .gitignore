@@ -1,0 +1,11 @@
+# Temporary folders
+lib
+
+# Node packages
+node_modules
+
+# Bower components
+bower_components
+
+# IDE environment
+.idea
